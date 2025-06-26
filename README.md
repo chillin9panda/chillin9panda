@@ -12,7 +12,5 @@ i use arch btw
 ![](https://nirzak-streak-stats.vercel.app/?user=chillin9panda&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chillin9panda&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=chillin9panda&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
